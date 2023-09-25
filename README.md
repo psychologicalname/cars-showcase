@@ -29,5 +29,5 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 
 ## View Live Demo
 
-Visit 'https://cars-showcase-khaki-sigma.vercel.app' to view live demo of the project.
+Visit https://cars-showcase-khaki-sigma.vercel.app to view live demo of the project.
 
